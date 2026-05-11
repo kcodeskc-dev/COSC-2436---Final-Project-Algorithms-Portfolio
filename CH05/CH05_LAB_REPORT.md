@@ -1,8 +1,10 @@
-# Lab 5: Hash Tables
+
+# Chapter 5: Hash Tables — Lab Report
 
 ## Student Information
 - **Name:** Karla Cuevas
 - **Date:** 05/07/2026
+- **Course:** COSC 2436
 
 ## Key Concepts
 [initialize the hash table with a specified size.
