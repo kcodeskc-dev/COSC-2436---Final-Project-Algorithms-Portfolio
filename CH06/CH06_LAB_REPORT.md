@@ -1,8 +1,8 @@
 # Lab 06: 2436 Ch06
 
 ## Student Information
-- **Name:** [Karla Cuevas]
-- **Date:** [05/07/2026]
+- **Name:** Karla Cuevas
+- **Date:** 05/07/2026
 
 ## Key Concepts
 [nderstanding graph data structures by representing city road networks as graphs with nodes and edges. BFS algorithm to find the shortest path between cities, utilizing a queue to explore nodes level by level efficiently ]
