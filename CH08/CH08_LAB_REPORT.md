@@ -1,8 +1,9 @@
-## Lab Report
+# Chapter 8: Balanced Trees — Lab Report
 
-### Student Information
-- **Name:** [Karla Cuevas]
-- **Date:** [05/05/26]
+## Student Information
+- **Name:** Karla Cuevas
+- **Date:** 05/10/2026
+- **Course:** COSC 2436
 
 ### Algorithm Analysis
 
