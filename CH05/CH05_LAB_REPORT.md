@@ -1,4 +1,4 @@
-# Lab 04: Hash Tables
+# Lab 05: Hash Tables
 
 ## Student Information
 - **Name:** [Karla Cuevas]
