@@ -1,8 +1,10 @@
-# Lab 06: 2436 Ch06
+# Chapter 6: BFS — Lab Report
 
 ## Student Information
 - **Name:** Karla Cuevas
-- **Date:** 05/07/2026
+- **Date:** 05/10/2026
+- **Course:** COSC 2436
+
 
 ## Key Concepts
 [nderstanding graph data structures by representing city road networks as graphs with nodes and edges. BFS algorithm to find the shortest path between cities, utilizing a queue to explore nodes level by level efficiently ]
@@ -15,3 +17,5 @@
 
 ## Reflection Questions
 1. [Answer the reflection questions from the instructions file]
+
+
