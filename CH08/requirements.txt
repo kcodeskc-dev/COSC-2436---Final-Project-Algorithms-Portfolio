@@ -1,0 +1,3 @@
+
+
+##If you plan to extend the functionality or run tests that require external libraries, you'll need to add those specific dependencies to the requirements.txt file. For now, your code should work with a standard Python environment.
