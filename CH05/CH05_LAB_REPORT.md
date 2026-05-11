@@ -1,8 +1,8 @@
-# Lab 05: Hash Tables
+# Lab 5: Hash Tables
 
 ## Student Information
-- **Name:** [Karla Cuevas]
-- **Date:** [05/07/2026]
+- **Name:** Karla Cuevas
+- **Date:** 05/07/2026
 
 ## Key Concepts
 [initialize the hash table with a specified size.
